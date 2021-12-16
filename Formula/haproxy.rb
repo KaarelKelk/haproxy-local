@@ -57,4 +57,3 @@ class Haproxy < Formula
     system bin/"haproxy", "-v"
   end
 end
-
